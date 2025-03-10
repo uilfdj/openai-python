@@ -124,4 +124,4 @@ repeat
 	task.wait()
 until getgenv().nuthub
 task.wait(1)
-Window:Destroy()
+Window:Destroy()k
